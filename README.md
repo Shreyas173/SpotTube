@@ -37,4 +37,4 @@ SpotTube is a Python-based application that lets you download songs from your Sp
 - The application is available as both source code and a pre-built executable. Use the executable for immediate use without Python installation. ⚙️
 - Spotify credentials are required only during the initial setup. 🔐
 
-Feel free to contribute, open issues, or suggest features! 🛠️💬
+#Feel free to contribute, open issues, or suggest features! 🛠️💬
